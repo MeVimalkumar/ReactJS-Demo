@@ -6,10 +6,7 @@ function App() {
   return (
     <div className="App">
         hello world
-<<<<<<< HEAD
         <h2>test9 second ticket</h2>
-=======
->>>>>>> 53a0e231415a1bc42f7f7de38d9788790913bc76
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
